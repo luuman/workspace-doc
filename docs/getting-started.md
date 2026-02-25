@@ -171,8 +171,8 @@ crepe.destroy();
 
 ## Next Steps
 
-- Learn more about [overview](/guide/architecture-overview)
-- Explore [available plugins](/plugins/using-plugins)
-- Check out [theming](/guide/theming)
+- 了解 [站点管理](./sites.md)
+- 查看 [新增站点流程](./add-site.md)
+- 阅读 [部署说明](./deployment.md)
 
 > 🍼 Fun fact: This documentation is rendered by Milkdown itself!
