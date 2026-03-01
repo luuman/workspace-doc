@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs_workspace=globalThis.webpackChunkdocs_workspace||[]).push([[2960],{6292(o){o.exports=JSON.parse('{"metadata":{"permalink":"/docs-workspace/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
